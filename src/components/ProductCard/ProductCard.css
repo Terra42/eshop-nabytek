@@ -1,0 +1,24 @@
+.product-card{
+    border: 2px solid #B46060;
+    border-radius: 10px;
+    padding: 1.5rem;
+    background-color: #ffbf9b33;
+}
+
+.product-card_img{
+    width: 12rem;
+    height: auto;
+    border-radius: 10px;
+}
+
+.product-card_title{
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-bottom: 0;
+    color: #4D4D4D;
+}
+
+.product-card:hover{
+    border: 2px solid #FFBF9B;
+    cursor: pointer;
+}

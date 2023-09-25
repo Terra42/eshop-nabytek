@@ -1,0 +1,19 @@
+.hero{
+    margin-bottom: 5rem;
+}
+
+.hero_title{
+    font-weight: 500;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.hero_subcopy{
+    line-height: 0.5rem;
+}
+
+@media screen and (max-width: 630px) {
+    .hero_subcopy{
+        line-height: 1rem;
+    }
+}
